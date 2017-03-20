@@ -1,5 +1,6 @@
 # JAGT
 A Java Swing application for geometry and algebra tools
+
 All decimals are rounded to three points of accuracy.
 I started making this in Python, but it didn't feel right for some reason. I wasn't very good at Python then, so that was probably why, but either way, I wanted to get more involved with Java. I wanted to make a program that could do my Geometry homework, so that's where I started, and I expanded from there. I add a tool or two every time I think of one. There is also an option to show slopes in decimals instead of fractions. There are still a few issues as far as simplification of slope in fraction form goes. These are the current available tools:
 # Slope Finder:
